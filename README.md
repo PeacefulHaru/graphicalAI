@@ -6,3 +6,8 @@ how AI evovles as new experiment begins.
 
 Mostlikely will use AWS for compute.
 Hopefully can have many graphs & everything
+
+
+Define version
+The current version is
+v0.1
